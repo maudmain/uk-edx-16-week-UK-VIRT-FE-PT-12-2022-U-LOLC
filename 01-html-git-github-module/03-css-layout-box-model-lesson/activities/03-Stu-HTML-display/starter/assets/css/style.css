@@ -10,11 +10,13 @@ h2 {
 ul {
   text-align: right;
   color: #ffffff;
+  position: inline;
 }
 
 li {
   list-style-type: none;
   font-size: 40px;
+  
 }
 
 img {
